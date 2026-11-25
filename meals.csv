@@ -1,0 +1,41 @@
+id,date,item,category,quantity,unit_price,total_cost,notes
+1,2026-10-20,Idli,Breakfast,1.0,15.0,15,Sample entry
+2,2026-10-20,Dosa,Breakfast,1.0,42.0,42,Campus meal
+3,2026-10-21,Upma,Breakfast,1.0,34.0,34,Daily food expense
+4,2026-10-21,Poha,Breakfast,1.0,31.0,31,
+5,2026-10-22,Tea,Beverages,2.0,10.0,20,Sample entry
+6,2026-10-22,Coffee,Beverages,1.0,22.0,22,Campus meal
+7,2026-10-23,Veg thali,Lunch,1.0,94.0,94,Daily food expense
+8,2026-10-23,Rice and dal,Lunch,1.0,61.0,61,
+9,2026-10-24,Chapati,Lunch,3.0,12.0,36,Sample entry
+10,2026-10-24,Paneer curry,Dinner,1.0,102.0,102,Campus meal
+11,2026-10-25,Curd rice,Dinner,1.0,49.0,49,Daily food expense
+12,2026-10-25,Samosa,Snacks,2.0,21.0,42,
+13,2026-10-26,Fruit bowl,Snacks,1.0,35.0,35,Sample entry
+14,2026-10-26,Lemon juice,Beverages,1.0,27.0,27,Campus meal
+15,2026-10-27,Veg pulao,Lunch,1.0,74.0,74,Daily food expense
+16,2026-10-27,Idli,Breakfast,1.0,21.0,21,
+17,2026-10-28,Dosa,Breakfast,1.0,40.0,40,Sample entry
+18,2026-10-28,Upma,Breakfast,1.0,32.0,32,Campus meal
+19,2026-10-29,Poha,Breakfast,1.0,29.0,29,Daily food expense
+20,2026-10-29,Tea,Beverages,2.0,16.0,32,
+21,2026-10-30,Coffee,Beverages,1.0,20.0,20,Sample entry
+22,2026-10-30,Veg thali,Lunch,1.0,92.0,92,Campus meal
+23,2026-10-31,Rice and dal,Lunch,1.0,59.0,59,Daily food expense
+24,2026-10-31,Chapati,Lunch,3.0,18.0,54,
+25,2026-11-01,Paneer curry,Dinner,1.0,100.0,100,Sample entry
+26,2026-11-01,Curd rice,Dinner,1.0,47.0,47,Campus meal
+27,2026-11-02,Samosa,Snacks,2.0,19.0,38,Daily food expense
+28,2026-11-02,Fruit bowl,Snacks,1.0,41.0,41,
+29,2026-11-03,Lemon juice,Beverages,1.0,25.0,25,Sample entry
+30,2026-11-03,Veg pulao,Lunch,1.0,72.0,72,Campus meal
+31,2026-11-04,Idli,Breakfast,1.0,19.0,19,Daily food expense
+32,2026-11-04,Dosa,Breakfast,1.0,46.0,46,
+33,2026-11-05,Upma,Breakfast,1.0,30.0,30,Sample entry
+34,2026-11-05,Poha,Breakfast,1.0,27.0,27,Campus meal
+35,2026-11-06,Tea,Beverages,2.0,14.0,28,Daily food expense
+36,2026-11-06,Coffee,Beverages,1.0,26.0,26,
+37,2026-11-07,Veg thali,Lunch,1.0,90.0,90,Sample entry
+38,2026-11-07,Rice and dal,Lunch,1.0,57.0,57,Campus meal
+39,2026-11-08,Chapati,Lunch,3.0,16.0,48,Daily food expense
+40,2026-11-08,Paneer curry,Dinner,1.0,106.0,106,

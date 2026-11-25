@@ -1,0 +1,21 @@
+DAILY MEAL COST CALCULATOR - PROJECT CONTENTS
+
+app.py                  Streamlit application
+requirements.txt        Python dependencies
+README.md               Setup and run instructions
+data/meals.csv          40 sample records; live CSV storage
+data/meals.json         40 sample records; live JSON storage
+reports/                Folder for reports
+
+All six mandatory features from the supplied SRS are implemented:
+1. Interactive menu-driven interface
+2. Defensive input validation
+3. Meal cost calculation logic
+4. CSV and JSON local persistence
+5. Keyword/category/date search
+6. Executive summary with totals, averages, trends and threshold status
+
+Optional extras included:
+- Markdown, TXT and CSV report export
+- Daily budget threshold warning
+- Sample dataset with 40 records
